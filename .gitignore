@@ -1,0 +1,8 @@
+#Envarioment Variables
+.env
+
+#Node Modules
+node_modules/
+
+#Yarn Workspace
+yarn-error.log
